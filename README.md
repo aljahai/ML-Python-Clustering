@@ -35,6 +35,6 @@ The analysis identified three primary clusters through the Elbow method:
 > * _scikit-learn_
 > * _scipy_
 ## Future Improvements
-__Outlier Management:__ Implementing robust methods to account for data outliers.
-__Alternative Algorithms:__ Using density-based clustering like DBSCAN to better evaluate complex data shapes.
-__Granularity:__ Performing analysis with $k=4$ to see if further meaningful sub-groups emerge.
+* __Outlier Management:__ Implementing robust methods to account for data outliers.
+* __Alternative Algorithms:__ Using density-based clustering like __DBSCAN__ to better evaluate complex data shapes.
+* __Granularity:__ Performing analysis with $k=4$ to see if further meaningful sub-groups emerge.
